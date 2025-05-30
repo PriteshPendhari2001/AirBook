@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "633169548028",
+    "project_id": "airbook-95947",
+    "storage_bucket": "airbook-95947.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633169548028:android:f7af2a641a2a34446d3d79",
+        "android_client_info": {
+          "package_name": "com.example.airbook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC14wezwirDCkkhPBY9KaWWZZCo2n_nr5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
